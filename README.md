@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -57,3 +58,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# BNSP_Rasya_iskandar_Beasiswa
+Project ini dibuat untuk simulasi proses pendaftaran beasiswa berbasis web. Fitur utama meliputi pengisian formulir beasiswa, upload berkas, validasi IPK otomatis, dan halaman list pengajuan. Dibuat menggunakan Laravel, TailwindCSS, dan konsep relasi database (Mahasiswa – Beasiswa – Pendaftaran).
+>>>>>>> cad2be3433e4a00cdacbad84dbc19d1da0f75480
